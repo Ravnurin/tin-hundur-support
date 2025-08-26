@@ -3,7 +3,7 @@
 ## Contact Support
 For questions, issues, or feedback about Tín Hundur, please contact us:
 
-**Email:** support@[your-email].com
+**Email:** runi-apps@outlook.com
 
 ## Report Issues
 Found a bug or need help? Please email us with:
