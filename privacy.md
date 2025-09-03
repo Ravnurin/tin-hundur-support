@@ -1,11 +1,15 @@
 # Privacy Policy for Tín Hundur
 
-**Last updated:** 26/08/2025
+**Last updated:** 03/09/2025
 
 ## Information We Collect
 
 **Account Information:**
 - Email address (for account creation and communication)
+- Username (for community features)
+- First name (for community features)
+- Last name
+- Phone number
 - User ID (for account management)
 
 **Location Information:**
@@ -20,7 +24,7 @@
 
 - **Account Management:** Email and user ID for login and account security
 - **App Features:** Location data to show your location on the Map; "Moments" posts, and for determining eligibility for location-based in-app achievements
-- **Community Features:** Your photos and messages to enable sharing with other dog owners
+- **Community Features:** Your first name, photos and messages to enable sharing with other dog owners
 - **Communication:** Email for important app updates and support
 
 ## Data Sharing
