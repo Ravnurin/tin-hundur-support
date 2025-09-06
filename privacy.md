@@ -70,7 +70,7 @@ We implement appropriate security measures to protect your personal information 
 
 ## Contact Us
 
-For privacy-related questions, contact us at: runi-apps@outlook.com
+For privacy-related questions, contact us at: tinhundur@outlook.com
 
 ## Changes to This Policy
 
