@@ -1,6 +1,6 @@
 # Privacy Policy for Tín Hundur
 
-**Last updated:** 06/09/2025
+**Last updated:** 16/09/2025
 
 ## Information We Collect
 
@@ -18,7 +18,9 @@
 
 **User Content:**
 - Photos you choose to share in dog moments
+- Comments you add to dog moments
 - Messages you send in group chats
+- Community events you create and/or join
 
 ## How We Use Your Information
 - **Account Management:** Email and user ID for login and account security
