@@ -1,6 +1,6 @@
 # Privacy Policy for Tín Hundur
 
-**Last updated:** 16/09/2025
+**Last updated:** 23/10/2025
 
 ## Information We Collect
 
@@ -17,7 +17,7 @@
 - Approximate location (optional, only when you choose to use location-based features like finding nearby services)
 
 **User Content:**
-- Photos you choose to share in dog moments
+- Photos or videos you choose to share in dog moments
 - Comments you add to dog moments
 - Messages you send in group chats
 - Community events you create and/or join
@@ -25,17 +25,17 @@
 ## How We Use Your Information
 - **Account Management:** Email and user ID for login and account security
 - **App Features:** Location data to show your location on the Map; "Moments" posts, and for determining eligibility for location-based in-app achievements
-- **Community Features:** Your first name, photos and messages to enable sharing with other dog owners
+- **Community Features:** Your first name, photos, videos and messages to enable sharing with other dog owners
 - **Communication:** Email for important app updates and support
-- **Community Safety** - automated content moderation to detect and prevent inappropriate content using third-party AI services (AWS Rekognition for images, OpenAI for text)
+- **Community Safety** - automated content moderation to detect and prevent inappropriate content using third-party AI services (AWS Rekognition for images and videos, OpenAI for text)
 
 ## Content Moderation & Safety
 To maintain a safe community environment and comply with app store guidelines, we use automated content moderation services:
 
-### Image Content Review:
-- **AWS Rekognition** analyses uploaded photos to detect inappropriate content
-- Images are processed to identify violations of our community guidelines
-- This processing happens automatically when you upload photos
+### Media Content Review:
+- **AWS Rekognition** analyses uploaded photos and videos to detect inappropriate content
+- Images and videos are processed to identify violations of our community guidelines
+- This processing happens automatically when you upload photos and videos
 
 ### Text Content Review:
 - **OpenAI's moderation service** analyses text content for inappropriate material
@@ -46,13 +46,13 @@ To maintain a safe community environment and comply with app store guidelines, w
 
 ## Data Sharing
 - We do not sell your personal information to third parties
-- Your photos are shared with other app users as part of the community features
+- Your photos and videos shared via community features are shared with other app users
 - Location data is only used within the app as part of in-app features, like the Map, Moments, and achievements
 
 ### We Share With:
 - **Google Maps** - only your general area (city/postcode) to show you maps
 - **Our database provider (MongoDB)** - to store your account safely
-- **AWS Rekognition** - your uploaded images for automated safety and content moderation
+- **AWS Rekognition** - your uploaded images and videos for automated safety and content moderation
 - **OpenAI** - your text content (comments, messages, moment captions, profile information) for automated safety and content moderation
 
 ## Data Security
